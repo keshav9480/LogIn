@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "633120088817",
+    "firebase_url": "https://login-40182.firebaseio.com",
+    "project_id": "login-40182",
+    "storage_bucket": "login-40182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633120088817:android:c058c16e592e33d3",
+        "android_client_info": {
+          "package_name": "com.example.keshav.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633120088817-plnsol4bcf5sipnij1l0hrlca5j1oqke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshav.login",
+            "certificate_hash": "9c3308232a5b1a5037dd1e17447c0b0a21106d52"
+          }
+        },
+        {
+          "client_id": "633120088817-ng2d170h543vfc77uv859kk9ut64sj93.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "633120088817-ng2d170h543vfc77uv859kk9ut64sj93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEd8ra9UJn-pPKjhYB8WXh3r5SqpF_tFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633120088817-ng2d170h543vfc77uv859kk9ut64sj93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
